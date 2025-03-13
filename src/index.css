@@ -8,5 +8,15 @@
     align-items: center;
     width: 100vw;
     min-height: 100vh;
+    background-image: url("./assets/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
+}
+
+#root {
+  width: 100vw;
+  min-height: 100vh;
+  background: rgba(255, 255, 255, 0.3);
 }
