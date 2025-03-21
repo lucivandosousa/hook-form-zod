@@ -2,6 +2,8 @@
 
 Formulário de Login desenvolvido com react-hook-form e zod.
 
+> **Aviso:** A versão do Node.js necessária para rodar este projeto é **v20.11.0** ou superior.
+
 ## Passos para executar o projeto
 
 1. Clone o repositório:
